@@ -10,10 +10,12 @@ This is Techky expert group which belive on learn, implement and contribute towa
 Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience. Our group help to understand what are the new technologies available in current market and basic example about how to use them.
 ```
 ## Important Links
-- ### Project Setup
+- Project Setup
   - Java [Maven + Core Java + Docker]
   - Spring Boot [Maven + Docker]
-- ### Coding Standards
+- Coding Standards
   - Java
   - Eclipse prefernces
-- ### Coding Standards
+- Coding Standards
+
+
