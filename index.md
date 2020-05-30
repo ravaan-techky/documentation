@@ -2,7 +2,7 @@
 
 This is Techky expert group which belive on learn, implement and contribute towards Open Source platform. We decide this group name as **Ravaan Techky** because - **Ravaan** was most intelligent person in history and **Techky** is related to Technology. _We would like to create smart intelligent technology forum._
 
-## What it means to contribute?
+## What it means to open source contribute?
 
 ### If you’re a new open source contributor, the process can be intimidating. How do you find the right project? What if you don’t know how to code? What if something goes wrong?
 
@@ -14,8 +14,9 @@ market and basic example about how to use them.
 ```
 ## Improve existing skills
 ```markdown
-Whether it’s coding, user interface design, graphic design, writing, or organizing, 
-if you’re looking for practice, there’s a task for you on an open source project.
+Whether it’s coding, user interface design, graphic design, writing, 
+or organizing, if you’re looking for practice, there’s a task for you 
+on an open source project.
 ```
 
 ## Meet people who are interested in similar things
