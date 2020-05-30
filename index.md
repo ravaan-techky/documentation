@@ -12,13 +12,38 @@ project, and a few tips will help you get the most out of your experience.
 Our group help to understand what are the new technologies available in current 
 market and basic example about how to use them.
 ```
+## Improve existing skills
+```markdown
+Whether it’s coding, user interface design, graphic design, writing, or organizing, 
+if you’re looking for practice, there’s a task for you on an open source project.
+```
+
+## Meet people who are interested in similar things
+```markdown
+Open source projects with warm, welcoming communities keep people coming back for 
+years. Many people form lifelong friendships through their participation in open 
+source, whether it’s running into each other at conferences or late night online 
+chats about burritos.
+```
+
+## Find mentors and teach others
+```markdown
+Working with others on a shared project means you’ll have to explain how you do 
+things, as well as ask other people for help. The acts of learning and teaching 
+can be a fulfilling activity for everyone involved.
+```
+
 ## Important Links
+- Techky Blogs
 - Project Setup
   - Java [Maven + Core Java + Docker]
   - Spring Boot [Maven + Docker]
 - Coding Standards
   - Java
   - Eclipse prefernces
-- Coding Standards
+- Docuementation Templates
+  - Project Template
+  - Technical Writeup Template
+ 
 
 
