@@ -1,6 +1,6 @@
 title: Ravaan Techky
 description: Ravaan Techky Group invites all Techkies.
 show_downloads: false
-is_user_page: false
-google_analytics: false
+github.is_project_page: false
+google_analytics: true
 theme: jekyll-theme-architect
