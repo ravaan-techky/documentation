@@ -54,7 +54,9 @@
         <section id="main-content">
           {{ content }}
           {% if site.github.is_project_page %}
+            <hr/>
             <p class="repo-owner"><i><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</i></p>
+            <hr/>
           {% endif %}
           </section>
       </div>
