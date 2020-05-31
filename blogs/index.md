@@ -7,3 +7,6 @@
 | 3 | Technical | Docker | Bhushan | 06/06/2020 | [<i class="far fa-align-justify"></i>Detail](docker)|
 | 4 | Technical | Using Docker in Kubernetics | Bhushan | 06/06/2020 | [<i class="far fa-align-justify"></i>Detail](docker_kubernetics)|
 | 5 | Technical | Google Opensource | Bhushan | 06/06/2020 | [<i class="far fa-align-justify"></i>Detail](docker_kubernetics)|
+
+
+<i class="fas fa-file-alt"></i>
