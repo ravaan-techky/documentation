@@ -53,10 +53,10 @@
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
-        </section>
-        {% if site.github.is_project_page %}
-          <p class="repo-owner">_<a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>._</p>
-        {% endif %}
+          {% if site.github.is_project_page %}
+            <p class="repo-owner">__<a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.__</p>
+          {% endif %}
+          </section>
       </div>
     </div>
 
