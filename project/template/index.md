@@ -14,6 +14,15 @@ Project Overview....Audience who should get benifits from this project.
 | Service layer | Yes / No | Spring Boot / Core Java |
 | Database layer | Yes / No | MySQL / MongoDB / Influx DB |
 
+
+| Layers | Available | Technology |
+| ------ | ------ | ------ |
+| Client side layer | Yes / No | Angular / JQuery / JavaScript |
+| Cascade style layer | Yes / No | CSS / SCSS |
+| Server Web layer | Yes / No | Spring Boot / Struts2 |
+| Service layer | Yes / No | Spring Boot / Core Java |
+| Database layer | Yes / No | MySQL / MongoDB / Influx DB |
+
 ### Technology Stack :
 | Technology | Version |
 | ------- | ------- |
