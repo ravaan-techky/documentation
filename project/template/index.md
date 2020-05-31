@@ -46,5 +46,13 @@ Project Overview....Audience who should get benifits from this project.
 | Source Code | <span style="color: green;font-weight: bold;"><i class="fa fa-download"></i></span> |
 | Circle CI <If Available> | <span style="color: green;font-weight: bold;"><i class="fa fa-external-link"></i></span> |
 | Documentation | <span style="color: green;font-weight: bold;"><i class="fa fa-folder-open"></i></span> |
+  
+### Developer Information:
+
+| Description | Github Profile Link  | LinkedIn Profile Link | Email Address
+| -------- | -------- | -------- |
+| First_Name1 Last_Name1 | [<i class="fa fa-external-link"></i>](#) | [<i class="fa fa-external-link"></i>](#) | [abc@gmail.com](mailto:abc@gmail.com) |
+| First_Name2 Last_Name2 | [<i class="fa fa-external-link"></i>](#) | [<i class="fa fa-external-link"></i>](#) | [abc@gmail.com](mailto:abc@gmail.com) |
+| First_Name3 Last_Name3 | [<i class="fa fa-external-link"></i>](#) | [<i class="fa fa-external-link"></i>](#) | [abc@gmail.com](mailto:abc@gmail.com) |
 
 [<i class="fa fa-arrow-left"></i> **Back**](/documentation/)
