@@ -50,7 +50,7 @@ Project Overview....Audience who should get benifits from this project.
 ### Developer Information:
 
 | Description | Github Profile Link  | LinkedIn Profile Link | Email Address
-| -------- | -------- | -------- |
+| -------- | -------- | -------- | -------- |
 | First_Name1 Last_Name1 | [<i class="fa fa-external-link"></i>](#) | [<i class="fa fa-external-link"></i>](#) | [abc@gmail.com](mailto:abc@gmail.com) |
 | First_Name2 Last_Name2 | [<i class="fa fa-external-link"></i>](#) | [<i class="fa fa-external-link"></i>](#) | [abc@gmail.com](mailto:abc@gmail.com) |
 | First_Name3 Last_Name3 | [<i class="fa fa-external-link"></i>](#) | [<i class="fa fa-external-link"></i>](#) | [abc@gmail.com](mailto:abc@gmail.com) |
