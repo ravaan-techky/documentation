@@ -39,9 +39,8 @@ Project Overview....Audience who should get benifits from this project.
 ### Important Links
 | Description | Link |
 | ------ | ------ |
-| Source Code | <span style="color: green;font-weight: bold;"><i class="fa fa-download"></i>GITHUB_LINK</span> |
-| Circle CI <If Available> | <span style="color: green;font-weight: bold;"><i class="fa fa-external-link"></i>CIRCLECI_LINK</span> |
-| Documentation | <span style="color: green;font-weight: bold;"><i class="fa fa-folder-open"></i>GITHUB_DOCUMENTATION_LINK</span> |
-
+| Source Code | <span style="color: green;font-weight: bold;"><i class="fa fa-download"></i></span> |
+| Circle CI <If Available> | <span style="color: green;font-weight: bold;"><i class="fa fa-external-link"></i></span> |
+| Documentation | <span style="color: green;font-weight: bold;"><i class="fa fa-folder-open"></i></span> |
 
 [<i class="fa fa-arrow-left"></i> **Back**](/documentation/)
