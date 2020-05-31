@@ -2,6 +2,7 @@
 
 | **Sr No** | **Summary** | **Author** | **Added** | **Project Status** | **Circel CI** | **Link** |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|  |  |  |  |  |  |  |
 | 1 | User Enrollment Webapp - RESTApi | Bhushan Patil | 30/05/2020 | <i class="fa fa-check"></i> | <i class="fa fa-check"></i> | [<i class="fa fa-file"></i>](influxdb_grafana)|
 |  |  |  |  |  |  |  |
 | 2 | School Dashboard | Bhushan Patil | 31/05/2020 | <i class="fa fa-check"></i> | <i class="fa fa-check"></i> | [<i class="fa fa-file"></i>](deno_vs_node)|
