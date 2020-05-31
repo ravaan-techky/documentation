@@ -15,3 +15,12 @@
 <i class="far fa-file"></i>abc
 [<i class="far fa-file"></i>Detail](docker_kubernetics)
 <i class="far fa-file"></i>[Detail](docker_kubernetics)
+
+<i class="fa fa-file"></i>abc
+[<i class="fa fa-file"></i>Detail](docker_kubernetics)
+<i class="fa fa-file"></i>[Detail](docker_kubernetics)
+
+<i class="fas fa-file"></i>abc
+[<i class="fas fa-file"></i>Detail](docker_kubernetics)
+<i class="fas fa-file"></i>[Detail](docker_kubernetics)
+
