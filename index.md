@@ -35,13 +35,13 @@ can be a fulfilling activity for everyone involved.
 ```
 
 ## Important Links
-- [Techky Blogs](/blogs)
+- [Techky Blogs](blogs)
 - Project Setup
-  - [Java (Maven + Core Java + Docker)](/project/simple-java/)
-  - [Spring Boot (Maven + Docker)](/project/spring-boot/)
+  - [Java (Maven + Core Java + Docker)](project/simple-java/)
+  - [Spring Boot (Maven + Docker)](project/spring-boot/)
 - Coding Standards
-  - [Java](/project/coding-standards/java)
-  - [Eclipse prefernces](/project/coding-standards/plugins)
+  - [Java](project/coding-standards/java)
+  - [Eclipse prefernces](project/coding-standards/plugins)
 - Docuementation Templates
-  - [Project Template](/project/template)
-  - [Technical Writeup Template](/project/technical-writeup-template)
+  - [Project Template](project/template)
+  - [Technical Writeup Template](project/technical-writeup-template)
