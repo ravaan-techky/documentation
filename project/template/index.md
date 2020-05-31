@@ -14,16 +14,8 @@ Project Overview....Audience who should get benifits from this project.
 | Service layer | Yes / No | Spring Boot / Core Java |
 | Database layer | Yes / No | MySQL / MongoDB / Influx DB |
 
-
-| Layers | Available | Technology |
-| ------ | ------ | ------ |
-| Client side layer | Yes / No | Angular / JQuery / JavaScript |
-| Cascade style layer | Yes / No | CSS / SCSS |
-| Server Web layer | Yes / No | Spring Boot / Struts2 |
-| Service layer | Yes / No | Spring Boot / Core Java |
-| Database layer | Yes / No | MySQL / MongoDB / Influx DB |
-
 ### Technology Stack :
+
 | Technology | Version |
 | ------- | ------- |
 | Spring Boot | 2.0.8 |
@@ -32,7 +24,8 @@ Project Overview....Audience who should get benifits from this project.
 | MySQL | 5.6.0 |
 
 
-### Benifits
+### Benifits:
+
 - Module 1
   - Benifit 1
   - Benifit 2
@@ -42,10 +35,12 @@ Project Overview....Audience who should get benifits from this project.
   - Benifit 2
   - ....
 
-### Architecture Overview
+### Architecture Overview:
+
   ![Overview](https://github.com/ravaan-techky/process-integration-tools/raw/master/docs/Overview.png)
 
-### Important Links
+### Important Links:
+
 | Description | Link |
 | -------- | -------- |
 | Source Code | <span style="color: green;font-weight: bold;"><i class="fa fa-download"></i></span> |
