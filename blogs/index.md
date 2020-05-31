@@ -9,4 +9,4 @@
 | 5 | Technical | Google Opensource | Bhushan | 06/06/2020 | [<i class="far fa-align-justify"></i>Detail](docker_kubernetics)|
 
 
-<i class="fa fa-file"></i>Hello
+<i class="far fa-file"></i>Hello
