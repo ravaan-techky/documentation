@@ -1,6 +1,6 @@
 ## Projects
 
-| **Sr No** | **Summary** | **Author** | **Added** | **Project Status** | **Circel CI** | **Link** |
+|<span style="background-color: azure;font-weight: bold;">Sr No</span>| **Summary** |<span style="background-color: azure;font-weight: bold;">Author</span>| **Added** |<span style="background-color: azure;font-weight: bold;">Project Status</span> | **Circel CI** |<span style="background-color: azure;font-weight: bold;">Link</span>|
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |  |  |  |  |  |  |  |
 | 1 | User Enrollment Webapp - RESTApi | Bhushan Patil | 30/05/2020 | <span style="color: green;font-weight: bold;"><i class="fa fa-check"></i></span> | <span style="color: green;font-weight: bold;"><i class="fa fa-check"></i></span> | [<i class="fa fa-file"></i>](influxdb_grafana)|
