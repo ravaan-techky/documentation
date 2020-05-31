@@ -16,7 +16,7 @@ Project Overview....Audience who should get benifits from this project.
 
 ### Technology Stack :
 | Technology | Version |
-| ------ | ------ |
+| ------- | ------- |
 | Spring Boot | 2.0.8 |
 | Core Java | Adopt Open JDK |
 | Angular | 9.0 |
@@ -38,7 +38,7 @@ Project Overview....Audience who should get benifits from this project.
 
 ### Important Links
 | Description | Link |
-| ------ | ------ |
+| -------- | -------- |
 | Source Code | <span style="color: green;font-weight: bold;"><i class="fa fa-download"></i></span> |
 | Circle CI <If Available> | <span style="color: green;font-weight: bold;"><i class="fa fa-external-link"></i></span> |
 | Documentation | <span style="color: green;font-weight: bold;"><i class="fa fa-folder-open"></i></span> |
