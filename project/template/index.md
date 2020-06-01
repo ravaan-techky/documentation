@@ -37,7 +37,7 @@ Project Overview....Audience who should get benifits from this project.
 
 ### Architecture Overview:
 
-  ![Overview](https://github.com/ravaan-techky/process-integration-tools/raw/master/docs/Overview.png)
+  ![Overview](images/sample_architect_blocks.png)
 
 ### Important Links:
 
