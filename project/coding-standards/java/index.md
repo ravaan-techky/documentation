@@ -175,14 +175,66 @@ System.out.println(stringBuilder);
 **_Documentation / Package Level Comment:**_
 
 **_Class Level Comment:**_
+Every class should have proper comment with proper description about class using "JavaDoc" convention.
+```java
+/** 
+* <h1>Find average of three numbers!</h1> 
+* The FindAvg program implements an application that 
+* simply calculates average of three integers and Prints 
+* the output on the screen. 
+* 
+* @author  Bhushan Patil 
+* @version 1.0 
+* @since   2020-05-18 
+*/
+public class AverageFinder {
+	//....
+}
+```
 
 **_Constant Variable Comment:**_
 
 **_Instance Variable Comment:**_
+Every instance variable should be preceded with a descriptive comment using the "JavaDoc" convention. 
+The comment should describe the purpose for the public variable.
+```java
+/** Toggles between frame and no frame mode. */
+private boolean frameMode = true;
+```
 
 **_Method Level Comment:**_
-
-**_Block Comment:**_
+Every method definition should be preceded with a descriptive comment using the "Javadoc" convention.<br/>
+The comment should include a description of the method, the name and description of each parameter, 
+a description of the return value, and the name and description of any exceptions thrown within 
+the method using Javadoc keywords and formatting.
+```java
+/**
+ * Prints a word, prints a number, and returns integer 1
+ *
+ * @param word any string of Class String
+ * @param number an integer of any value
+ * @return the integer 1 
+ * @exception MyException if the word starts with the letter 'z'
+ * @exception YourException if the number is a zero(0)
+ */ 
+public static int method1 (String word, Integer number) throws MyException, YourException {
+  //code...
+  if (word.charAt(0) == 'z') {
+    //thrown, but not caught in method, so put in JavaDocs above 
+    throw new MyException();
+  }
+  if (number == 0) {
+    //thrown, but not caught in method, so put in JavaDocs above
+    throw new YourException();
+  }
+  try {
+    int x = 5 / 0;
+  } catch (ArithmeticException exception) {
+    System.out.println("ERROR: Division by zero! " + exception); 
+  }
+  return 1; 
+}
+```
 
 ### Immutability
 The concept of immutability is very important. We must decide whether the classes we 
