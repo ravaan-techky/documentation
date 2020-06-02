@@ -173,6 +173,12 @@ System.out.println(stringBuilder);
 ### Comments
 
 **_Documentation / Package Level Comment:**_
+```java
+/*******************************************************
+ * Copyright (C) 2019-2020 Ravaan Techky Open-Source Contributor Group <ravaan.techky@gmail.com>
+ * This file is part of {sample_project}.
+ *******************************************************/
+```
 
 **_Class Level Comment:**_
 Every class should have proper comment with proper description about class using "JavaDoc" convention.
