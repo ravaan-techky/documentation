@@ -1,0 +1,14 @@
+#Sat Jun 06 06:12:11 IST 2020
+\!/=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.8
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=18
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands/>
+@org.eclipse.jdt.core=3.20.0.v20191203-2131
+@org.eclipse.jdt.ui=3.20.0.v20191203-1301
+@org.eclipse.ui.workbench=3.117.0.v20191126-1131
+file_export_version=3.0
