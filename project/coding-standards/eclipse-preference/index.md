@@ -25,5 +25,5 @@ The Import wizard can be used to import preferences from the file system to the 
 | JAutoDocs | JavaDocs Generator |
 | Save Active Changes | Adding final keyword to applicable method level parameters, local parameters. Adding Spaces whenever requires |
 
-<br/>
+<br/><br/>
 [<i class="fa fa-arrow-left"></i> **Back**](/documentation/)
