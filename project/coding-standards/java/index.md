@@ -259,7 +259,7 @@ of test cases in production environment. An obvious benefit of writing test case
 they provide immediate feedback of the features under development.
 <br/><br/>
 <span style="color: red;font-weight: bold;">
-<b><i>Too much coding rule!!! No Worries....we will learn how to use eclipse preferences to automate almost all coding standards.</i></b>
+<b><i>Too much coding rule!!! No Worries....we will learn how to use eclipse preferences to automate almost all coding standards.</i></b>[<i class="fa fa-arrow-right"></i>](../eclipse-preference/)
 </span>
 <br/><br/>
 [<i class="fa fa-arrow-left"></i> **Back**](/documentation/)
