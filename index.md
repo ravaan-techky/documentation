@@ -45,4 +45,4 @@ can be a fulfilling activity for everyone involved.
   - [Spring Boot (Maven + Docker)](project/spring-boot/)
 - Coding Standards
   - [Java](project/coding-standards/java)
-  - [Eclipse prefernces](project/coding-standards/plugins)
+  - [Eclipse prefernces](project/coding-standards/eclipse-preference)
