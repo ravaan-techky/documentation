@@ -1,4 +1,4 @@
-##Open Source Automation Tools
+## Open Source Automation Tools
 
 A test-automation framework is a set of best practices, common tools, and libraries that help quality-assurance testers assess the functionality, security, usability, and accessibility of multiple web and mobile applications. In a "quick-click" digital world, we're accustomed to fulfilling our needs in a jiffy. This is one reason why the software market is flooded with hundreds of test-automation frameworks.
 
@@ -10,7 +10,7 @@ Although teams could build elaborate automated testing frameworks, there's usual
 - Stable in a volatile environment
 - Scalable
 
-###How to select a test-automation framework
+### How to select a test-automation framework
 
 Because different businesses have different needs, it's difficult to pinpoint all the things you will want in a test-automation framework. However, there are some key criteria that most organizations will look for in a test-automation framework:
 
@@ -35,7 +35,7 @@ Appium is an open source test-automation framework based on a WebDriver protocol
 - Allows testers to create element repositories and manage them accordingly
 - Supports reusable code and tests (written in Node.js) between iOS, Android, and Windows test suites
 
-###Carina
+### Carina
 
 Carina is a popular Java-based test-automation framework built on top of Selenium. Because it doesn't rely on a specific technology stack, software developers, QA, and testers can reuse test-automation code between iOS and Android up to 70% of the time.
 
@@ -46,7 +46,7 @@ Carina is a popular Java-based test-automation framework built on top of Seleniu
 - Leverages the FreeMarker template engine to give testers tremendous flexibility in generating REST requests
 
 
-###Galen
+### Galen
 
 If your test-automation efforts are mainly aimed towards improving the user experience (UX), Galen is the test-automation framework to put to work. Galen specifically caters to UX testing, with specific syntax for testing and verifying your mobile or web application's layout.
 
@@ -67,7 +67,7 @@ Gauge, a relatively new test-automation tool, is lightweight and cross-platform.
 - Supports modular architecture with myriad extended plugins
 - Creates text documentation in simple Markdown, i.e., devoid of any particular structure
 
-###Katalon
+### Katalon
 
 If you're looking for a straightforward yet detail-oriented test-automation framework, consider Katalon. It is an open source testing framework with support for web, mobile, and API automation testing.
 
@@ -77,7 +77,7 @@ If you're looking for a straightforward yet detail-oriented test-automation fram
 - Supports Jira implementation
 - Automatically generates test scripts by analyzing and recording web actions and capturing associated objects (similar to robotic process automation (RPA))
 
-###Robot Framework
+### Robot Framework
 
 If you need a Python-based test-automation framework, you can't go wrong with the Robot Framework. Albeit generic in terms of acceptance-test-driven development (ATDD), Robot Framework is considered a mature solution for software developers and QA testers. This test-automation framework's main feature is its keyword-driven approach to creating tests that are easy to read and write.
 
@@ -88,7 +88,7 @@ If you need a Python-based test-automation framework, you can't go wrong with th
 - Integrates with Jython (Java) and IronPython (.NET), even though it's Python-based
 - Supports tabular data syntax
 
-###Selenium
+### Selenium
 
 Selenium is indisputably the most popular open source test-automation framework for web applications. Because it is cross-compatible across multiple operating systems, you can write test scripts in multiple languages, which is one reason Selenium is the basis for an enormous number of testing tools and automation frameworks.
 
@@ -98,7 +98,7 @@ Selenium is indisputably the most popular open source test-automation framework 
 - Comes integrated with a playback tool, Selenium IDE, that enables test authoring without learning specific scripts
 - Is compatible across platforms, operating systems, and browsers
 
-###Serenity
+### Serenity
 
 Serenity (formerly known as Thucydides) is an open source Java-based test-automation framework that helps with writing automating acceptance and regression tests. If you're searching for a tool that easily integrates with behavior-driven development (BDD), Serenity might be a good fit for automating your software testing.
 
@@ -108,7 +108,7 @@ Serenity (formerly known as Thucydides) is an open source Java-based test-automa
 - Enables you to test multiple scenarios at a high level while sustaining lower-level record details
 - Comes with pre-built functions, including WebDriver management, Jira integration, running parallel processes, and more
 
-###Testproject.io
+### Testproject.io
 
 If you're new to software test automation and are seeking a free platform with a robust community around it, you can't go wrong with Testproject.io.
 
@@ -120,7 +120,7 @@ It's built on two open source tools (Selenium and Appium) with the goal of entic
 - Enables seamless sharing of software tests and APIs with testers around the globe
 - Includes features including test recording, global automation grid, and automation building blocks to support QA testers who are new to programming
 
-###Conclusion
+### Conclusion
 
 There are so many open source test-automation frameworks and tools available that listing all of them in a single article isn't feasible. These nine tools stand out to me, but keep in mind that not all tools and frameworks are created equally. The two areas where these frameworks and tools shine are their support for different operating systems and different scripting languages.
 
