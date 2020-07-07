@@ -56,7 +56,7 @@ If your test-automation efforts are mainly aimed towards improving the user expe
 - Writes test files in Galen syntax, JavaScript, or Java
 - Generates detailed HTML reports with thorough heatmap analysis
 
-###Gauge
+### Gauge
 
 Gauge, a relatively new test-automation tool, is lightweight and cross-platform. Its beauty is that it's built on a plugin architecture, so it can be used with any language, IDE, and ecosystem.
 
