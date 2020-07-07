@@ -24,7 +24,7 @@ Because different businesses have different needs, it's difficult to pinpoint al
 
 Selecting the best test-automation framework for your organization can be difficult. To help you evaluate features against your needs and narrow down your options, below I've outlined my top nine open source business automation tools and frameworks.
 
-###Appium
+### Appium
 
 Appium is an open source test-automation framework based on a WebDriver protocol for testing mobile applications. Built around the idea of uniformity, it allows you to write tests for different platforms using the same APIs.
 
