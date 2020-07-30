@@ -41,6 +41,7 @@ can be a fulfilling activity for everyone involved.
   - [Project Template](project/template)
   - [Technical Writeup Template](project/technical-writeup-template)
 - [Docker Documentation](/docker-documentation/)
+- [Python Documentation](/python-documentation/)
 - Project Setup
   - [Java (Maven + Core Java + Docker)](/simple-java-docker/)
   - [Spring Boot (Maven + Docker)](project/spring-boot/)
