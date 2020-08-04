@@ -37,14 +37,14 @@ can be a fulfilling activity for everyone involved.
 ## Important Links
 - [Techky Blogs](blogs)
 - [Projects](project)
-- Docuementation Templates
-  - [Project Template](project/template)
-  - [Technical Writeup Template](project/technical-writeup-template)
 - [Docker Documentation](/docker-documentation/)
 - [Python Documentation](/python-documentation/)
 - Project Setup
   - [Java (Maven + Core Java + Docker)](/simple-java-docker/)
   - [Spring Boot (Maven + Docker)](project/spring-boot/)
+- Docuementation Templates
+  - [Project Template](project/template)
+  - [Technical Writeup Template](project/technical-writeup-template)
 - Coding Standards
   - [Java](project/coding-standards/java)
   - [Eclipse prefernces](project/coding-standards/eclipse-preference)
