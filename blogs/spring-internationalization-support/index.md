@@ -12,14 +12,34 @@ We can configure internationlization support in spring framework with the help o
 - Inject MessageSource bean where you want to resolve messages from message codes
 - Resolve messages
 
-### Software
+### Technology Stack :
 
-| Name | Link |
-| --- | --- |
-| JRE | [Adopt Open JRE 8](https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.9.1%2B1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.9.1_1.msi) |
-| Apache Server | [<i class="fa fa-external-link"></i>](https://httpd.apache.org/download.cgi#apache24) |
-| Tomcat Server | [<i class="fa fa-external-link"></i>](https://tomcat.apache.org/download-90.cgi) | 
-| Apache MOD JK Plugin | [<i class="fa fa-external-link"></i>](http://tomcat.apache.org/download-connectors.cgi) |
+| Technology | Version |
+| ------- | ------- |
+| Core Java | Adopt Open JDK 8 |
+| Spring Boot Web | 2.4.2 |
+
+### Tools :
+
+| Tool | Version |
+| ------- | ------- |
+| Maven | Apache Maven 3.5.0 |
+
+
+### Fixed Locale Resolver:
+- LocaleResolver implementation that always returns a fixed default locale and optionally time zone. Default is the current JVM's default locale.
+- **Note:** Does not support setLocale(Context), as the fixed locale and time zone cannot be changed.
+
+### Accept Header Locale Resolver:
+- LocaleResolver implementation that simply uses the primary locale specified in the "accept-language" header of the HTTP request (that is, the locale sent by the client browser, normally that of the client's OS).
+
+### Cookie Locale Resolver:
+- LocaleResolver implementation that uses a cookie sent back to the user in case of a custom setting, with a fallback to the specified default locale or the request's accept-header locale.
+- This is useful for stateless applications without user sessions.
+
+### Session Locale Resolver:
+- LocaleResolver implementation that uses a locale attribute in the user's session in case of a custom setting, with a fallback to the specified default locale or the request's accept-header locale.
+- This is useful for applications which uses user sessions.
 
  ### Blog Owner Information:
 
